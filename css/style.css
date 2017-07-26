@@ -33,17 +33,17 @@ h2 {
 } 
 
 .pimg1 { 
-    background-image: url("/img/pexels-photo-316591.jpeg");
+    background-image: url("https://ossitooh.github.io/ParallaxWebsite/img/pexels-photo-316591.jpeg");
     min-height: 100%;
 } 
 
 .pimg2 { 
-    background-image: url("/img/pexels-photo-493878.jpeg");
+    background-image: url("https://ossitooh.github.io/ParallaxWebsite/img/pexels-photo-493878.jpeg");
     min-height: 550px;
 } 
 
 .pimg3 {
-    background-image: url("/img/pexels-photo-119617.jpeg");
+    background-image: url("https://ossitooh.github.io/ParallaxWebsite/img/pexels-photo-119617.jpeg");
     min-height: 550px;
 } 
 section {
